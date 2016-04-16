@@ -1,0 +1,30 @@
+.imghover:hover {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+
+@media screen and (max-width: 800px) {
+  .placeHolderImage {
+    width: 400px !important;
+  }
+  .searchBar {
+    width: 100% !important;
+  }
+  .imagesGrid {
+    margin-top: 0 !important;
+  }
+  .imghover:hover {
+    -webkit-filter: none;
+    filter: none;
+  }
+}
+@media screen and (max-width: 500px) {
+  .placeHolderImage {
+    width: 200px !important;
+  }
+}
+@media screen and (max-width: 300px) {
+  .placeHolderImage {
+    width: 100px !important;
+  }
+}

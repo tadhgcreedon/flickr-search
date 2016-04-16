@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1002px" height="479px" viewBox="0 0 1002 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>placeholder image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="21" y="18" width="960" height="445.083581"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="Rectangle-1" stroke="#979797" fill="#9B9B9B" sketch:type="MSShapeGroup" x="2.54063281" y="1.28278" width="995.92806" height="475.911381"></rect>
+        <rect id="Rectangle-2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="53.3532889" y="26.9383801" width="891.762115" height="424.600181"></rect>
+        <g id="Rectangle-2-Copy">
+            <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+        <polygon id="Polygon-1" fill="#9B9B9B" sketch:type="MSShapeGroup" points="798.250625 267 991.553455 342.78542 917.718344 465.408806 678.782905 465.408806 604.947794 342.78542 "></polygon>
+        <polygon id="Triangle-1" fill="#D8D8D8" sketch:type="MSShapeGroup" points="258.022648 214 495.045296 462.859321 21 462.859321 "></polygon>
+        <polygon id="Triangle-2" fill="#D8D8D8" sketch:type="MSShapeGroup" points="499.602207 185 709.204413 463.363261 290 463.363261 "></polygon>
+        <rect id="Rectangle-3" fill="#9B9B9B" sketch:type="MSShapeGroup" x="876" y="350" width="110.10358" height="117.083581"></rect>
+        <rect id="Rectangle-5" fill="#D8D8D8" sketch:type="MSShapeGroup" x="798" y="142" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-6" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(838.000000, 113.500000) rotate(-270.000000) translate(-838.000000, -113.500000) " x="835.5" y="107.5" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-7" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(763.000000, 113.500000) rotate(-270.000000) translate(-763.000000, -113.500000) " x="760.5" y="107.5" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-5" fill="#D8D8D8" sketch:type="MSShapeGroup" x="798" y="72" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(828.010408, 137.010408) rotate(-45.000000) translate(-828.010408, -137.010408) " x="825.510408" y="131.010408" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-4" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(772.989592, 87.010408) rotate(-45.000000) translate(-772.989592, -87.010408) " x="770.489592" y="81.0104076" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-2" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(773.010408, 139.010408) rotate(-315.000000) translate(-773.010408, -139.010408) " x="770.510408" y="133.010408" width="5" height="12"></rect>
+        <rect id="Rectangle-5-Copy-3" fill="#D8D8D8" sketch:type="MSShapeGroup" transform="translate(828.010408, 87.010408) rotate(-315.000000) translate(-828.010408, -87.010408) " x="825.510408" y="81.0104076" width="5" height="12"></rect>
+        <ellipse id="Oval-2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="800" cy="112" rx="30.5" ry="29.5"></ellipse>
+        <ellipse id="Oval-1" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="800.5" cy="112.5" rx="29.5" ry="28.5"></ellipse>
+    </g>
+</svg>
