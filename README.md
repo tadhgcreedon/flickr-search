@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Flickr Challenge
 
 ## A Brief Intro About React
@@ -48,3 +49,7 @@ We highly recommend using react-router (https://github.com/rackt/react-router) t
 ## Questions
 
 Please let us know if you have any questions. While we cannot clarify the challenge text, as it is a measure of comprehension, we will certainly try our best to help you out.
+=======
+# flickr-search
+A React application for searching Flickr.
+>>>>>>> ec5e2b31b6d17e4da3d633274c1dfbb1e11502af
