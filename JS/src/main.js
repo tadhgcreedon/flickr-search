@@ -163,8 +163,16 @@ var PlaceHolderImage = React.createClass({
   render: function(){
     return(
       <figure>
+
+        <br />
+        <figcaption style={placeHolderImageCaptionStyle}>Type a query into the search bar and relevant images from <a style={{color:"black"}} target="_blank" href="http://flickr.com">Flickr</a> will display here in a grid.
+        </figcaption>
         <img src="Images/placeholder.svg" style={placeHolderImageStyle} className="placeHolderImage"></img>
-        <figcaption style={placeHolderImageCaptionStyle}>Type a query into the search bar and relevant images from <a style={{color:"black"}} target="_blank" href="http://flickr.com">Flickr</a> will display here in a grid.</figcaption>
+        <br />
+        <div style={portfolioLinksStyle}>
+          <a style={portfolioLinkStyle} href="http://tadhgcreedon.github.io">Tadhg Creedon</a> |&nbsp;
+          <a style={portfolioLinkStyle} href="http://github.com/tadhgcreedon/flickr-search">Source</a> | 2016
+        </div>
       </figure>
     );
   }
@@ -228,6 +236,14 @@ var imageStyle = {
   borderTop: "2.5px solid #333",
   borderBottom: "2.5px solid #333",
   borderLeft: "5px solid #333"
+};
+var portfolioLinkStyle = {
+  color: "gray"
+};
+var portfolioLinksStyle = {
+  color: "gray",
+  textAlign: "center",
+  fontSize: "1.15em"
 };
 
 /*----------- Sort Select Box Component -----------*/
@@ -297,17 +313,6 @@ var buttonLinkStyle = {
   textDecoration: "none",
   color: "black"
 };
-
-// const SEARCH_TEXT_UPDATE = "SEARCH_TEXT_UPDATE";
-// const initialState = {
-//   searchText: ""
-// };
-// const reducer = function(state = initialState, action) {
-//   if(action.type === SEARCH_TEXT_UPDATE) {
-//     return Object.assign({}, state, {searchText: action.searchText});
-//   }
-// };
-// const store = Redux.createStore(reducer);
 
 /*----------- Render Page Content -----------*/
 ReactDOM.render((
